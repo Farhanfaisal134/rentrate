@@ -14,7 +14,7 @@ const Hero = () => {
             repudiandae nihil fuga iusto corporis vel obcaecati a inventore,
             neque quas, ipsa odio similique eligendi error in unde quibusdam
             molestiae possimus! Molestias eos ut pariatur voluptatem consequatur
-            modi! Quia, ab ratione!
+            modi! Quia!
           </p>
         </div>
 
